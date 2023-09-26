@@ -7,5 +7,5 @@
 
 x = 10
 y = 4
-answer = 
+answer = 14
 print( answer )
